@@ -9,7 +9,7 @@ steps:
     description: >-
      Hey, es tu primera vez aquí, así que no presupongamos nada. Mira este
      breve video para entender por qué la gente usa GitHub.
-  - course: intro-github
+  - course: DeustoPWEB/intro-github
     description: >-
       El video está bien, ¿verdad? Si quieres aprender a usar el flujo de 
       trabajo descrito en el video, sigue este curso.
@@ -19,7 +19,7 @@ steps:
       A estas alturas probablemente te estás preguntando qué es Git y por qué es
       importante para escribir código. Aquí tienes un breve artículo sobre 
       control de versiones con Git.
-  - course: comunicar-usando-markdown
+  - course: DeustoPWEB/comunicar-usando-markdown
     description: >-
       GitHub va sobre todo de colaboración, y colaboramos en _issues_ que forman 
       parte de _pull requests_. Aprende a transmitir lo que sabes con la sintaxis
