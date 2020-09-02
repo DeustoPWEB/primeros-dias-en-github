@@ -1,8 +1,8 @@
 title: Primeros días en GitHub
 description: >-
-  Welcome to GitHub! We're so glad you're here. We know it can look overwhelming
-  at first, so we've put together a few of our favorite courses for people
-  logging in for the first time
+  ¡Bienvenida a GitHub! Estamos muy felices de que estés aquí. Sabemos que esto puede parecer
+  abrumador al principio, así que aquí tienes algunos cursos para iniciarte y realizar tus
+  primeros pasos ahora que te has registrado.
 steps:
   - link: 'https://youtu.be/w3jLJU7DT5E'
     title: ¿Qué es GitHub?
@@ -19,6 +19,11 @@ steps:
       A estas alturas probablemente te estás preguntando qué es Git y por qué es
       importante para escribir código. Aquí tienes un breve artículo sobre 
       control de versiones con Git.
+  - link: 'https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet/'
+    title: Chuleta de Git
+    description: >-
+      Son muchas palabras y conceptos nuevos, ¿verdad? Esta chuleta te servirá de
+      referencia rápida. Es útil que la tengas a mano.
   - course: comunicar-usando-markdown
     description: >-
       GitHub va sobre todo de colaboración, y colaboramos en _issues_ que forman 
