@@ -23,7 +23,8 @@ steps:
     title: Chuleta de Git
     description: >-
       Son muchas palabras y conceptos nuevos, ¿verdad? Esta chuleta te servirá de
-      referencia rápida. Es útil que la tengas a mano.
+      referencia rápida. Es útil que la tengas a mano (puedes imprimirla o guardarla
+      en tus Marcadores).
   - course: comunicar-usando-markdown
     description: >-
       GitHub va sobre todo de colaboración, y colaboramos en _issues_ que forman 
