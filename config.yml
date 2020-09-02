@@ -25,7 +25,7 @@ steps:
         description: >-
          Hey, es tu primera vez aquí, así que no presupongamos nada. Mira este
          breve video para entender por qué la gente usa GitHub.
-  - course: introduction-to-github
+  - course: intro-github
     description: >-
       That video is pretty cool, right? If you want to learn how to use the
       workflow described in that video, take this course.
@@ -47,7 +47,7 @@ steps:
           A estas alturas probablemente te estás preguntando qué es Git y por qué es
           importante para escribir código. Aquí tienes un breve artículo sobre 
           control de versiones con Git.
-  - course: communicating-using-markdown
+  - course: comunicar-usando-markdown
     description: >-
       GitHub is all about collaboration and we collaborate in issues in pull
       requests. Learn how to get your point across with the worlds easiest text
