@@ -3,6 +3,7 @@ description: >-
   ¿Acabas de registrarte? Éste es un buen lugar par empezar.
 steps:
   - link: 'https://youtu.be/w3jLJU7DT5E'
+    video: 'https://youtube.com/embed/w3jLJU7DT5E'
     title: ¿Qué es GitHub?
     description: >-
      Hey, es tu primera vez aquí, así que no presupongamos nada. Mira este
@@ -28,3 +29,14 @@ steps:
       GitHub va sobre todo de colaboración, y colaboramos en _issues_ que forman 
       parte de _pull requests_. Aprende a transmitir lo que sabes con la sintaxis
       para formatear texto más fácil del mundo.
+  - link: 'https://youtu.be/2MsN8gpT6jY'
+    video: 'https://youtube.com/embed/2MsN8gpT6jY'
+    title: Descubre GitHub Pages
+    description: >-
+      Lanzar un sitio web personal nunca fue tan fácil como con GitHub Pages.
+      Mira este divertido video para aprender cómo puedes crear y alojar sitios
+      web espectaculares y ¡gratuitos! en GitHub.
+  - course: github-pages
+    description: >-
+      ¿Lista para crear tu propio sitio web con GitHub Pages? Este curso te 
+      ayudará a crear tu primer sitio web en solo unos minutos.
