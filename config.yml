@@ -58,13 +58,3 @@ steps:
           GitHub va sobre todo de colaboración, y colaboramos en _issues_ que forman 
           parte de _pull requests_. Aprende a transmitir lo que sabes con la sintaxis
           para formatear texto más fácil del mundo.
-  - course: uploading-your-project-to-github
-    description: >-
-      Now that you know what GitHub does, I bet you're ready to move all of
-      those projects off your local machine. This course will show you how.
-    translations:
-      es:
-        description: >-
-          Ahora que sabes lo que hace GitHub, me juego algo a que estás en condiciones
-          de mover todos esos proyectos fuera de tu máquina local. Este curso te 
-          enseñará cómo.
