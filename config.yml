@@ -6,7 +6,7 @@ steps:
     video: 'https://youtube.com/embed/w3jLJU7DT5E'
     title: ¿Qué es GitHub?
     description: >-
-     Hey, es tu primera vez aquí, así que no presupongamos nada. Mira este
+     **SEMANA 0** &mdash; Hey, es tu primera vez aquí, así que no presupongamos nada. Mira este
      breve video para entender por qué la gente usa GitHub.
   - course: introduccion-a-github
     description: >-
