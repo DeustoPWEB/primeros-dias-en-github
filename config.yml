@@ -40,3 +40,8 @@ steps:
     description: >-
       ¿Lista para crear tu propio sitio web con GitHub Pages? Este curso te 
       ayudará a crear tu primer sitio web en solo unos minutos.
+  - course: revisando-solicitudes-de-extraccion
+    description: >-
+      Vamos a usar solicitudes de extracción para revisar y mejorar los documentos que
+      vayáis entregando. En este curso aprenderás a utilizar las solicitudes de 
+      extracción para un feedback efectivo.
