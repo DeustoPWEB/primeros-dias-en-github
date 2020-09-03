@@ -40,7 +40,7 @@ steps:
     description: >-
       **SEMANA 3** &mdash; ¿Lista para crear tu propio sitio web con GitHub Pages? Este curso te 
       ayudará a crear tu primer sitio web en solo unos minutos.
-  - course: intro-html
+  - course: introduccion-a-html
     description: >-
       **SEMANA 5** &mdash; 
   - course: revisando-solicitudes-de-extraccion
