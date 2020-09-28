@@ -24,7 +24,7 @@ steps:
       **SEMANA 1** &mdash; Son muchas palabras y conceptos nuevos, ¿verdad? Esta chuleta te servirá de
       referencia rápida. Es útil que la tengas a mano (puedes imprimirla o guardarla
       en tus Marcadores).
-  - course: comunicar-usando-markdown
+  - course: githubtraining/communicating-using-markdown
     description: >-
       **SEMANA 2** &mdash; GitHub va sobre todo de colaboración, y colaboramos en _issues_ que forman 
       parte de _pull requests_. Aprende a transmitir lo que sabes con la sintaxis
