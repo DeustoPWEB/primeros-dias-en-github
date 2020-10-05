@@ -51,7 +51,6 @@ steps:
       efectivo.
   - course: gestionar-conflictos-al-fusionar
     description: >-
-      **SEMANA 6** &mdash; Cuando colaboras con otras personas, puede que hagáis cambios sobre el mismo 
-      fragmento de contenido en diferentes ramas. No te preocupes, GitHub te cubre las espaldas. 
-      Bloquearemos la combinación y te ayudaremos a alcanzar un acuerdo pacífico sobre cómo deberían 
-      quedar esos cambios finales.
+      **SEMANA 6** &mdash; Cuando trabajas en equipo, puede que hagáis cambios sobre el mismo 
+      fragmento de contenido. No te preocupes: bloquearemos la combinación y te 
+      ayudaremos a alcanzar un acuerdo pacífico sobre cómo deberían quedar esos cambios finales.
