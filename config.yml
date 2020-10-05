@@ -47,10 +47,11 @@ steps:
   - course: revisando-solicitudes-de-extraccion
     description: >-
       **SEMANA 5** &mdash; Vamos a usar solicitudes de extracción para revisar y mejorar los documentos que
-      vayáis entregando. En este curso aprenderás a utilizar las solicitudes de 
-      extracción para un feedback efectivo.
+      vayáis entregando. En este curso aprenderás a utilizar las solicitudes de extracción para un feedback 
+      efectivo.
   - course: gestionar-conflictos-al-fusionar
     description: >-
-      **SEMANA 6** &mdash; Cuando colaboras con otras personas, puede que hagáis cambios sobre el mismo fragmento
-      de contenido en diferentes ramas. No te preocupes, GitHub te cubre las espaldas. Bloquearemos la combinación y 
-      te ayudaremos a alcanzar un acuerdo pacífico sobre cómo deberían quedar esos cambios finales.
+      **SEMANA 6** &mdash; Cuando colaboras con otras personas, puede que hagáis cambios sobre el mismo 
+      fragmento de contenido en diferentes ramas. No te preocupes, GitHub te cubre las espaldas. 
+      Bloquearemos la combinación y te ayudaremos a alcanzar un acuerdo pacífico sobre cómo deberían 
+      quedar esos cambios finales.
