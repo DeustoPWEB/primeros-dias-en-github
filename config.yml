@@ -42,7 +42,8 @@ steps:
       ayudará a crear tu primer sitio web en solo unos minutos.
   - course: introduccion-a-html
     description: >-
-      **SEMANA 4** &mdash; 
+      **SEMANA 4** &mdash; La web está hecha con HTML. En este curso aprenderás (o refrescarás) lo más
+      básico del lenguaje de marcado HTML, generando una página web sencilla.
   - course: revisando-solicitudes-de-extraccion
     description: >-
       **SEMANA 5** &mdash; Vamos a usar solicitudes de extracción para revisar y mejorar los documentos que
@@ -50,4 +51,6 @@ steps:
       extracción para un feedback efectivo.
   - course: gestionar-conflictos-al-fusionar
     description: >-
-      **SEMANA 6** &mdash; 
+      **SEMANA 6** &mdash; Cuando colaboras con otras personas, puede que hagáis cambios sobre el mismo fragmento
+      de contenido en diferentes ramas. No te preocupes, GitHub te cubre las espaldas. Bloquearemos la combinación y 
+      te ayudaremos a alcanzar un acuerdo pacífico sobre cómo deberían quedar esos cambios finales.
